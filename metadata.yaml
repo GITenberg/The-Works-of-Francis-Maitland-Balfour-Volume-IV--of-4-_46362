@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '41136'
     url: http://www.gutenberg.org/2009/agents/41136
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46362#The-Works-of-Francis-Maitland-Balfour-Volume-IV--of-4-
 gutenberg_issued: '2014-07-22'
 gutenberg_type: Text
 identifiers:
