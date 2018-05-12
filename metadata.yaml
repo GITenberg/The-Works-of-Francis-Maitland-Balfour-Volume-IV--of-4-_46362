@@ -1,0 +1,43 @@
+_repo: The-Works-of-Francis-Maitland-Balfour-Volume-IV--of-4-_46362
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46362-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Balfour, Francis M. (Francis Maitland)
+    alias: Balfour, Francis Maitland
+    birthdate: 1851
+    deathdate: 1882
+    gutenberg_agent_id: '41135'
+    url: http://www.gutenberg.org/2009/agents/41135
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Maitland_Balfour
+  editors:
+  - agent_name: Sedgwick, Adam
+    birthdate: 1854
+    deathdate: 1913
+    gutenberg_agent_id: '41137'
+    url: http://www.gutenberg.org/2009/agents/41137
+  - agent_name: Foster, M. (Michael), Sir
+    aliases:
+    - Foster, Michael, Sir
+    - Foster, Sir Michael
+    birthdate: 1836
+    deathdate: 1907
+    gutenberg_agent_id: '41136'
+    url: http://www.gutenberg.org/2009/agents/41136
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology'
+- !lcc 'QL'
+- !lcsh 'Embryology'
+title: "The Works of Francis Maitland Balfour, Volume 4 (of 4)\r\nPlates"
+url: http://www.gutenberg.org/ebooks/46362
